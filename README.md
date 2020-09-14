@@ -13,5 +13,3 @@ I'm a tech enthusiast, love almost everything about Linux and network security.
   <a href="mailto:adarafaranisa443@gmail.com"><img alt="My Email" src="https://img.shields.io/badge/adarafaranisa443@gmail.com-red?style=flat&logo=appveyor&labelColor=abcdef"></a>
   
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
