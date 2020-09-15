@@ -16,11 +16,13 @@ I'm a tech enthusiast, love almost everything about Linux and network security.
 
 ## Daily Starter Kit
 <p>
-<img src="https://img.shields.io/badge/OS-Manjaro%20Linux-35BF5C?style=flat-square&logo=Manjaro&labelColor=EEEEEE">
-<img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-007ACC?style=flat-square&logoColor=007ACC&logo=visual-studio-code&labelColor=EEEEEE">
-<img src="https://img.shields.io/badge/Browser-Firefox-FF7139?style=flat-square&logo=firefox-browser&labelColor=EEEEEE">
-<img src="https://img.shields.io/badge/Batabase-MySQL-4479A1?style=flat-square&logo=MySQL&labelColor=EEEEEE">
-<img src="https://img.shields.io/badge/Musics-Spotify-1ED760?style=flat-square&logo=Spotify&labelColor=EEEEEE">
+<ul>
+<li><img src="https://img.shields.io/badge/OS-Manjaro%20Linux-35BF5C?style=flat-square&logo=Manjaro&labelColor=EEEEEE"></li>
+<li><img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-007ACC?style=flat-square&logoColor=007ACC&logo=visual-studio-code&labelColor=EEEEEE"></li>
+<li><img src="https://img.shields.io/badge/Browser-Firefox-FF7139?style=flat-square&logo=firefox-browser&labelColor=EEEEEE"></li>
+<li><img src="https://img.shields.io/badge/Batabase-MySQL-4479A1?style=flat-square&logo=MySQL&labelColor=EEEEEE"></li>
+<li><img src="https://img.shields.io/badge/Musics-Spotify-1ED760?style=flat-square&logo=Spotify&labelColor=EEEEEE"></li>
+</ul>
 </p>
 
 ## My Github Stats
