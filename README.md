@@ -9,7 +9,7 @@ I'm a tech enthusiast, love almost everything about Linux and network security.
 
 <p style="text-align: left">  
  <a href="https://t.me/adaranisa" target="_blank"><img alt="My Telegram" src="https://img.shields.io/badge/@adaranisa-2CA5E0?style=social&logo=Telegram&labelColor=191970"></a><br>
- <a href="https://tylexit.com" target="_blank"><img alt="My Blog" src="https://img.shields.io/badge/www.tylexit.com-FF5722?style=social&logo=Blogger&labelColor=191970"></a><br>
+ <a href="https://tylexit.blogspot.com/" target="_blank"><img alt="My Blog" src="https://img.shields.io/badge/www.tylexit.com-FF5722?style=social&logo=Blogger&labelColor=191970"></a><br>
  <a href="https://seno21.github.io" target="_blank"><img alt="My Github Page" src="https://img.shields.io/badge/seno21.github.io-eeeeee?style=social&logo=Github&labelColor=191970">  </a><br>
   <a href="mailto:adarafaranisa443@gmail.com" target="_blank"><img alt="My Email" src="https://img.shields.io/badge/adarafaranisa443@gmail.com-D14836?style=social&logo=Gmail&labelColor=191970"></a>
 </p>
