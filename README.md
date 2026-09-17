@@ -22,9 +22,6 @@ I'm a tech enthusiast, love almost everything about Linux and network security.
 <img src="https://img.shields.io/badge/Batabase-MySQL-4479A1?style=flat-square&logo=MySQL&labelColor=EEEEEE"><br>
 </p>
 
-## My Github Stats
-[![SENO21](https://github-readme-stats.vercel.app/api?username=seno21&theme=dark)](https://github.com/seno21)
-
 
 <!--START_SECTION:waka-->
 
